@@ -11,8 +11,8 @@
 - 💬 Ask me about **React, Javascript, Python**
 
 - 📫 How to reach me **mohitjha1511@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/18XuZVXbAvhuMO_kQfX_uJHrp62uNo1P0/view?usp=sharing](https://drive.google.com/file/d/18XuZVXbAvhuMO_kQfX_uJHrp62uNo1P0/view?usp=sharing)
+  
+- 📄 Explore my professional journey and experiences in my [resume](https://drive.google.com/file/d/18XuZVXbAvhuMO_kQfX_uJHrp62uNo1P0/view?usp=sharing).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

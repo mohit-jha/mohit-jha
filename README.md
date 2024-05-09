@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mohitjha1511@gmail.com**
   
-- 📄 Explore my professional journey and experiences in my [resume](https://drive.google.com/file/d/18XuZVXbAvhuMO_kQfX_uJHrp62uNo1P0/view?usp=sharing).
+- 📄 Explore my professional journey and experiences in my [resume](https://docs.google.com/document/d/1bKDUJfZoyTbqj1foiZEwkn5xVFRJFMvDOQYSo7-JC6I/edit?usp=sharing).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
